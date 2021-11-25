@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "lib": ["ESNext"],
+    "target": "es2017",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "sourceMap": true,
+		"rootDir": "src",
+    "outDir": "out",
+  }
+}
